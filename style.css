@@ -296,6 +296,15 @@ body {
         font-weight: 300;
     }
 
+    .elem h6 {
+        font-size: 5vw;
+        font-weight: 800;
+        position: relative;
+        top: -22%;
+        left: -3%;
+    }
+    
+
     #image-content {
         height: 65%;
         width: 100%;
