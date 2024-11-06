@@ -10,13 +10,13 @@ Trendline is a dynamic web page designed to showcase various products in an enga
 
 <b>💡 Key Features : </b><br>
 
-✅ Sleek Navigation:
+✅ Sleek Navigation: <br>
 The webpage features a well-structured navigation bar that allows users to easily explore different sections, including country selection, profile access, and more.<br>
 
-✅ Engaging Content Display:
+✅ Engaging Content Display: <br>
 The main content area is divided into text and image sections, displaying product names with striking typography and vibrant images that enhance visual engagement.<br>
 
-✅ Responsive Design:
+✅ Responsive Design: <br>
 Using media queries, the layout adapts smoothly to various screen sizes, providing an optimal viewing experience on both mobile and desktop devices.<br>
 
 
